@@ -1,0 +1,55 @@
+.popupCell {
+  background: lightyellow;
+}
+
+table.gridtable {
+  font-family: verdana, arial, sans-serif;
+  font-size: 11px;
+  color: #333333;
+  border-width: 1px !important;
+  border-color: #666666 !important
+;
+  border-collapse: collapse !important
+;
+}
+
+table.gridtable th {
+  border-width: 1px !important;
+  padding: 8px;
+  border-style: solid !important;
+  border-color: #666666   !important
+;
+  background-color: #dedede   !important
+;
+}
+
+/* Decoration for Cart Details with Table Data Tags */
+
+table.gridtable td {
+  border-width: 1px !important
+;
+  padding: 8px   !important
+;
+  border-style: solid !important
+;
+  border-color: #666666 !important
+;
+  background-color: #ffffff   !important
+;
+}
+
+
+#map {
+        height: 400px;
+        /* The height is 400 pixels */
+        width: 100%;
+        /* The width is the width of the web page */
+      }
+
+#twitter {
+  margin-bottom: inherit;
+}
+
+.alert-primary {
+  margin-bottom: inherit;
+}
